@@ -1,6 +1,6 @@
 USE [DataWarehouse]
 GO
-/****** Object:  StoredProcedure [bronze].[load_bronze]    Script Date: 5/27/2026 3:25:01 PM ******/
+/****** Object:  StoredProcedure [bronze].[load_bronze]    Script Date: 5/27/2026 10:38:05 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
